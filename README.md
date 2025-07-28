@@ -30,11 +30,11 @@ This repository covers a wide range of Pandas operations, including:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/sidop25/Data_Analysis.git
     ```
 2.  **Navigate to the repository directory:**
     ```bash
-    cd your-repository-name
+    cd Data_Analysis
     ```
 3.  **Explore the notebooks and code:** Each topic is covered in a separate Jupyter Notebook. You can follow along with the tutorials and run the code yourself.
 4.  **Add your own notes:** Feel free to add your own notes, examples, and projects to this repository as you learn.
