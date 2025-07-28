@@ -1,7 +1,3 @@
-Here is a README file that you can use for your GitHub repository.
-
------
-
 # Learning Pandas for Data Analysis 🐼
 
 This repository is dedicated to learning the Python Pandas library for data manipulation and analysis. It contains notes, code examples, and projects based on various online tutorials.
